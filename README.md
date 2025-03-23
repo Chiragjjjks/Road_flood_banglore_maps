@@ -11,7 +11,6 @@ This project predicts flood-prone locations based on weather conditions (rainfal
 - Interactive UI for users to enter weather data and visualize results
 
 ## Tech Stack
-- **Backend:** Flask (Python)
 - **Frontend:** HTML, JavaScript, Google Maps API
 - **Machine Learning:** Pre-trained flood prediction model
 - **Data Handling:** NumPy, Pandas
